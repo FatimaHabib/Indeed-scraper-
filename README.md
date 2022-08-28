@@ -16,4 +16,4 @@ Install the requirments:
 pip3 install -r requirements.txt
 ```
 # Working on
-- creating a webapp using ** Streamlit ** library from python.
+- creating a webapp using **Streamlit** library from python.
