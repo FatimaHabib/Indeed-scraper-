@@ -3,9 +3,6 @@ import csv
 import datetime 
 import requests 
 from bs4 import BeautifulSoup
-import sys
-import time 
-from random import random
 
 ## Required functions
 def split_string(string):
